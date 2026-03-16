@@ -1,22 +1,26 @@
 <!-- ================= PREMIUM BANNER ================= -->
 
 <p align="center">
+<a href="#">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shubham%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">📊 Data Analyst | Python | SQL | Power BI | Excel</h3>
 
 <p align="center">
+<a href="#">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Excel+%7C+Tableau+%7C+HTML;Turning+Data+Into+Insights;Future+AI+Engineer"/>
+</a>
 </p>
 
 ---
 
-<!-- ================= VISITOR COUNTER ================= -->
-
 <p align="center">
+<a href="#">
 <img src="https://komarev.com/ghpvc/?username=Shubham-07-ms&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
 </p>
 
 ---
@@ -24,7 +28,9 @@
 <!-- ================= CODING GIF ================= -->
 
 <p align="center">
+<a href="#">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520"/>
+</a>
 </p>
 
 ---
@@ -46,30 +52,26 @@
 # 🛠 Tech Stack
 
 <p align="center">
-
+<a href="#">
 <img src="https://skillicons.dev/icons?i=python,mysql,html" height="60"/>
-
+</a>
 </p>
 
 <p align="center">
 
+<a href="#">
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</a>
 
+<a href="#">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</a>
 
+<a href="#">
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</a>
 
 </p>
-
----
-
-# 🚀 Featured Projects
-
-### 📊 Data Analysis Projects
-
-🔹 Sales Data Analysis using **Python & Pandas**
-🔹 Customer Insights Dashboard using **Power BI**
-🔹 Excel Dashboard for **Business Reporting**
 
 ---
 
@@ -77,9 +79,13 @@
 
 <p align="center">
 
+<a href="#">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubham-07-ms&show_icons=true&theme=tokyonight&hide_border=true"/>
+</a>
 
+<a href="#">
 <img height="165" src="https://streak-stats.demolab.com?user=Shubham-07-ms&theme=tokyonight&hide_border=true"/>
+</a>
 
 </p>
 
@@ -88,9 +94,9 @@
 # 📈 Most Used Languages
 
 <p align="center">
-
+<a href="#">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-07-ms&layout=compact&theme=tokyonight&hide_border=true"/>
-
+</a>
 </p>
 
 ---
@@ -98,9 +104,9 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-
+<a href="#">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+</a>
 </p>
 
 ---
@@ -121,16 +127,16 @@
 
 ---
 
-# ⭐ Support My Work
+# ⭐ Support
 
 <p align="center">
-
-⭐ If you like my work please **star my repositories** ⭐
-
+⭐ If you like my work please **star my repositories**
 </p>
 
 ---
 
 <p align="center">
+<a href="#">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</a>
 </p>
